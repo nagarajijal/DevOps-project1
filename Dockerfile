@@ -1,5 +1,5 @@
 FROM centos:latest
-MAINTAINER Nagaraj Jalawadi.
+MAINTAINER NagarajJalawadi.
 RUM yum install -y httpd \
    zip \
    unzip
